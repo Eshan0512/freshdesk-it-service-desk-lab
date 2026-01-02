@@ -1,5 +1,5 @@
 ## Ticket: Email / Application Access Denied
-![Access denied – Freshdesk Ticket]()
+![Access denied – Freshdesk Ticket](https://github.com/Eshan0512/freshdesk-it-service-desk-lab/blob/e27afafac43ebbb87209795f208d3821cf1336b8/Ticket_4.png)
 **Type:** Incident  
 **Priority:** High  
 
