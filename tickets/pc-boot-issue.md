@@ -1,5 +1,5 @@
 ## Ticket 1: PC Will Not Boot After Restart
-![PC Boot Issue – Freshdesk Ticket](ticket_1)
+![PC Boot Issue – Freshdesk Ticket](Ticket_1)
 
 **Type:** Incident  
 **Priority:** High  
