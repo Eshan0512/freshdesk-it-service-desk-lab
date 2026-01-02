@@ -1,5 +1,5 @@
 ## Ticket: Zebra Handheld Scanner Not Syncing
-![Zebra Handheld Scanner – Freshdesk Ticket]()
+![Zebra Handheld Scanner – Freshdesk Ticket](https://github.com/Eshan0512/freshdesk-it-service-desk-lab/blob/045df2debca5c13ff742929a2bd5e7acab9ee7d0/Ticket_2.png)
 **Type:** Incident  
 **Priority:** Medium  
 
